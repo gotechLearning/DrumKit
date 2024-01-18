@@ -1,0 +1,67 @@
+body{
+    text-align: center;
+    background-color: #283149;
+}
+h1{
+    font-size: 5rem;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    text-shadow: 4px 0  #DA0463;
+}
+footer{
+    font-family: sans-serif;
+    color: #DBEDF3;
+    /* margin: 10% auto; */
+}
+.c{
+    background-image: url(photos/img1.gif);
+}
+.h{
+    background-image: url(photos/img2.gif);
+}
+.r{
+    background-image: url(photos/img3.gif);
+}
+.i{
+    background-image: url(photos/img4.gif);
+}
+.s{
+    background-image: url(photos/img5.gif);
+}
+.t{
+    background-image: url(photos/img6.gif);
+}
+.m{
+    background-image: url(photos/img7.gif);
+}
+.a{
+    background-image: url(photos/img8.gif);
+}
+.ss{
+    background-image: url(photos/img9.gif);
+}
+.song{
+    outline: none;
+    font-size: 5rem;
+    line-height: 2;
+    font-weight: 900;
+    font-family:  "Arvo", cursive;
+    display: inline-block;
+    color: palevioletred;
+    text-shadow:3px 0 #DBEDF3;
+    border: 10px solid  #404B69;
+    border-radius: 15px;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 5px;
+    background-color: white;
+}
+.set{
+    margin: 10% auto;
+}
+
+.pressed{
+    box-shadow: 0 3px 4px 0  #DBEDF3;
+    opacity: 0.5;
+}
